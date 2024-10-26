@@ -1,11 +1,11 @@
 # EX-7 : Implement Data Encryption Standard (DES) Algorithm
 
-## DATE:
+# DATE:
 
-## AIM:
+# AIM:
 To write a program to implement Data Encryption Standard (DES).
 
-## ALGORITHM:
+# ALGORITHM:
 
 ## STEP-1:
 Read the 64-bit plain text.
